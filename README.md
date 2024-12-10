@@ -1,6 +1,11 @@
 # Description : 
-This project is a mobile app used to monitor the heat in a room. It allows us to display the current temperature and set the target temperature. 
-It implements functionnalities such as going through a list of rooms and updating the rooms. It works on the API related to a Backend project predecently developped.
+This project is a mobile app used to monitor the heat in a room. It allows users to:
+- Display the current temperature.
+- Set the target temperature.
+- Browse through a list of rooms.
+- Update room details.
+
+The app works with an API connected to a backend project previously developed.
 
 # Requirements :
 -Android Studio 
